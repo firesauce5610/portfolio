@@ -5,7 +5,7 @@ I am Caden Gross, a inspiring software developer. I have wanted to be in the cod
 
 
 ## Career Interests -
-Game Developer 
+### Game Developer 
 ### Why this role appeals to me -
 I have made simple games my entire life and I love seeing people play my games. Seeing a wider audience playing my games and running my code seems like a dream come true. Doing research, game developers seem like the best fit for me.
 ### Salary
